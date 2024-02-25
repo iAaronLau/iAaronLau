@@ -1,11 +1,26 @@
-### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=900&color=007EF7&center=true&vCenter=true&random=false&width=435&lines=There+is+Shouyue's+GitHub+place;I+wish+you+all+the+best.)](https://git.io/typing-svg)
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=900&color=007EF7&center=true&vCenter=true&random=false&width=435&lines=There+is+Shouyue's+GitHub+place;I+wish+you+all+the+best." alt="Typing SVG" /></a></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=iAaronLau)](https://git.io/streak-stats)
 
-[![AaronLau's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iAaronLau)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🤣About Me
+   
+- Name: Shouyue Liu
+- Nickname：iAaronLau
+- Hometown: Hebei Province in China
+- Educational Experience
+   - __B.S. in Software Engineering__: Hebei University of Science and Technology (2017.09-2021.06);  
+   - __M.S. in Electronic and Information Engineering__: Wenzhou Medical University & Ningbo Institute of Materials Technology and Engineering, CAS (2021.9-2024.6);  
 
+## 📈Statistics  
+
+<p align="center">
+    <a align="center" href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=iAaronLau" alt="GitHub Streak" />
+    <a align="center">
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iAaronLau&show_icons=true&include_all_commits=true" />
+</p>
+ 
 <!--
 **iAaronLau/iAaronLau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +35,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+

@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=900&color=007EF7&center=true&vCenter=true&random=false&width=435&lines=There+is+Shouyue's+GitHub+place;I+wish+you+all+the+best.)](https://git.io/typing-svg)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iAaronLau)](https://git.io/streak-stats)
+
+[![AaronLau's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iAaronLau)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--
 **iAaronLau/iAaronLau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
